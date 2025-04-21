@@ -1,4 +1,4 @@
-# rtk-qeury-react-hook-form
+# rtk-query-react-hook-form
 
 1. **Form inteqrasiyası**  
    - React Hook Form ilə axtarış formu yaradın.  
